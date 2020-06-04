@@ -1,7 +1,6 @@
 ### NOTE 
-This repo is not being maintained any longer. There is active fork at https://github.com/nkconnor/planout4j
 
-[![Build Status](https://travis-ci.org/Glassdoor/planout4j.svg?branch=master)](https://travis-ci.org/Glassdoor/planout4j)
+[![Build Status](https://travis-ci.org/irvifa/planout4j.svg?branch=master)](https://travis-ci.org/github/irvifa/planout4j)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.glassdoor.planout4j/planout4j-core/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.glassdoor.planout4j/planout4j-core)
 
 # PlanOut4J
